@@ -1,0 +1,13 @@
+{
+    "name": "Productivity App",
+    "className": "ProductivityApp",
+    "sdk": "2.0p",
+    "javascript": [
+        "js/ProductivityDataSource.js",
+        "js/ProductivityChart.js",
+        "js/ProductivityApp.js"
+    ],
+    "css": [
+        "css/app.css"
+    ]
+}
